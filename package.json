@@ -1,0 +1,11 @@
+{
+  "name": "visafraud",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "harp": "*"
+  },
+  "engines": {
+    "node": "9.5.0"
+  }
+}
